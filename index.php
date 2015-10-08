@@ -1,13 +1,9 @@
-<!DOCTYPE html>
+<<!DOCTYPE html>
 <html>
 <head>
-<meta http-equiv="refresh" content="0;url=user/index.php">
-<title>CustomWritingPros</title>
-<script language="javascript">
-    window.location.href = "user/index.php"
-</script>
+	<title>Custom Writing pros</title>
 </head>
 <body>
-Go to <a href="user/index.php">/user/index.php</a>
+<center><h1>Thank You Transaction was successful</h1></center>
 </body>
 </html>
